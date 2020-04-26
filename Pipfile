@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+selenium = "*"
+
+[packages]
+pytest = "*"
+pytest-bdd = "*"
+
+[requires]
+python_version = "3.8"
