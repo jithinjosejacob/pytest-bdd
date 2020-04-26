@@ -1,0 +1,5 @@
+pipenv run python -m pytest => All tests
+
+pipenv run python -m pytest tests/step_defs/test_cucumbers_steps.py =>Specific Steps
+
+pipenv run python -m pytest -k "cucumber-basket" => Tests having tag
