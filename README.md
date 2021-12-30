@@ -1,8 +1,3 @@
-# tau-pytest-bdd
-This repository contains example code for the
-*Behavior-Driven Python with pytest-bdd* course
-from [Test Automation University](https://testautomationu.applitools.com/).
-There is a branch for each chapter of the course showing the state of the code at the completion of the chapter.
 
 ## Setup
 This project requires an up-to-date version of Python 3.
@@ -20,6 +15,9 @@ Depending upon your environment, it may be better to use `python -m pytest`.
 If you are using `pipenv`, then run `pipenv run python -m pytest`.
 Use the "-k" option to filter tests by tags.
 
-## More Info
-For the best experience, take the full TAU course chapter-by-chapter.
-Check out the branch for each chapter and follow along.
+
+# tau-pytest-bdd
+This repository contains example code for the
+*Behavior-Driven Python with pytest-bdd* course
+from [Test Automation University](https://testautomationu.applitools.com/).
+There is a branch for each chapter of the course showing the state of the code at the completion of the chapter.
